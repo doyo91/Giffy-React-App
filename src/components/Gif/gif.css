@@ -1,26 +1,30 @@
-.gif {
+.Gif {
     margin-bottom: .5em;
-}
-
-.gif-link { 
-    color: black;
+  }
+  
+  .Gif-link {
+    color: #000;
     display: block;
     text-decoration: none;
     position: relative;
     width: 100%;
-}
-
-.gif h4 {
-    background-color: rgba(0, 0, 0, 0.3);
+  }
+  
+  .Gif h4 {
+    background: rgba(0, 0, 0, .3);
     bottom: 0;
     font-size: 12px;
     color: #fff;
     margin: 0;
     position: absolute;
-}
-
-.gif img {
+  }
+  
+  .Gif img {
     width: 100%;
     object-fit: contain;
     vertical-align: top;
-}
+  }
+  
+  i {
+    font-size: 80px;
+  }
