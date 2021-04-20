@@ -4438,9 +4438,9 @@ fb-watchman@^2.0.0:
     bser "2.1.1"
 
 figgy-pudding@^3.5.1:
-  version "3.5.1"
-  resolved "https://registry.yarnpkg.com/figgy-pudding/-/figgy-pudding-3.5.1.tgz#862470112901c727a0e495a80744bd5baa1d6790"
-  integrity sha512-vNKxJHTEKNThjfrdJwHc7brvM6eVevuO5nTj6ez8ZQ1qbXTvGthucRF7S4vf2cr71QVnT70V34v0S1DyQsti0w==
+  version "3.5.2"
+  resolved "https://registry.yarnpkg.com/figgy-pudding/-/figgy-pudding-3.5.2.tgz#b4eee8148abb01dcf1d1ac34367d59e12fa61d6e"
+  integrity sha512-0btnI/H8f2pavGMN8w40mlSKOfTK2SVJmBfBeVIj3kNw0swwgzyRq0d5TJVOwodFmtvpPeWPN/MCcfuWF0Ezbw==
 
 figures@^3.0.0:
   version "3.2.0"
@@ -5341,6 +5341,11 @@ internal-slot@^1.0.2:
     es-abstract "^1.17.0-next.1"
     has "^1.0.3"
     side-channel "^1.0.2"
+
+intersection-observer@^0.11.0:
+  version "0.11.0"
+  resolved "https://registry.yarnpkg.com/intersection-observer/-/intersection-observer-0.11.0.tgz#f4ea067070326f68393ee161cc0a2ca4c0040c6f"
+  integrity sha512-KZArj2QVnmdud9zTpKf279m2bbGfG+4/kn16UU0NL3pTVl52ZHiJ9IRNSsnn6jaHrL9EGLFM5eWjTx2fz/+zoQ==
 
 invariant@^2.2.2, invariant@^2.2.4:
   version "2.2.4"
@@ -9572,9 +9577,9 @@ sshpk@^1.7.0:
     tweetnacl "~0.14.0"
 
 ssri@^6.0.1:
-  version "6.0.1"
-  resolved "https://registry.yarnpkg.com/ssri/-/ssri-6.0.1.tgz#2a3c41b28dd45b62b63676ecb74001265ae9edd8"
-  integrity sha512-3Wge10hNcT1Kur4PDFwEieXSCMCJs/7WvSACcrMYrNp+b8kDL1/0wJch5Ni2WrtwEa2IO8OsVfeKIciKCDx/QA==
+  version "6.0.2"
+  resolved "https://registry.yarnpkg.com/ssri/-/ssri-6.0.2.tgz#157939134f20464e7301ddba3e90ffa8f7728ac5"
+  integrity sha512-cepbSq/neFK7xB6A50KHN0xHDotYzq58wWCa5LeWqnPrHG8GzfEjO/4O8kpmcGW+oaxkvhEJCWgbgNk4/ZV93Q==
   dependencies:
     figgy-pudding "^3.5.1"
 
@@ -10726,6 +10731,11 @@ worker-rpc@^0.1.0:
   integrity sha512-P1WjMrUB3qgJNI9jfmpZ/htmBEjFh//6l/5y8SD9hg1Ef5zTTVVoRjTrTEzPrNBQvmhMxkoTsjOXN10GWU7aCg==
   dependencies:
     microevent.ts "~0.1.1"
+
+wouter@^2.4.0:
+  version "2.7.4"
+  resolved "https://registry.yarnpkg.com/wouter/-/wouter-2.7.4.tgz#d528122cacf6e9805d7b953bbddfb90226850977"
+  integrity sha512-shJIsHR+gcn69L2zR+0eKquOvAcjfIEdhzf8iAP502DlrAwg5lO2Q90DqIvXryNz/mk1fe2crTB40ZHXjoF1Bg==
 
 wrap-ansi@^2.0.0:
   version "2.1.0"
