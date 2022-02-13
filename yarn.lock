@@ -3528,7 +3528,7 @@ debug@2.6.9, debug@^2.2.0, debug@^2.3.3, debug@^2.6.0, debug@^2.6.9:
   dependencies:
     ms "2.0.0"
 
-debug@^3.0.0, debug@^3.1.1, debug@^3.2.5:
+debug@^3.1.1, debug@^3.2.5:
   version "3.2.6"
   resolved "https://registry.yarnpkg.com/debug/-/debug-3.2.6.tgz#e83d17de16d8a7efb7717edbe5fb10135eee629b"
   integrity sha512-mel+jf7nrtEl5Pn1Qx46zARXKDpBbvzezse7p7LqINmdoIk8PYP5SySaxEmYv6TZ0JyEKA1hsCId6DIhgITtWQ==
@@ -4589,11 +4589,9 @@ flush-write-stream@^1.0.0:
     readable-stream "^2.3.6"
 
 follow-redirects@^1.0.0:
-  version "1.10.0"
-  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.10.0.tgz#01f5263aee921c6a54fb91667f08f4155ce169eb"
-  integrity sha512-4eyLK6s6lH32nOvLLwlIOnr9zrL8Sm+OvW4pVTJNoXeGzYIkHVf+pADQi+OJ0E67hiuSLezPVPyBcIZO50TmmQ==
-  dependencies:
-    debug "^3.0.0"
+  version "1.14.8"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.14.8.tgz#016996fb9a11a100566398b1c6839337d7bfa8fc"
+  integrity sha512-1x0S9UVJHsQprFcEC/qnNzBLcIxsjAV905f/UkQxbclCsoTWlacCNOpQa/anodLl2uaEKFhfWOvM2Qg77+15zA==
 
 for-in@^0.1.3:
   version "0.1.8"
@@ -5341,6 +5339,11 @@ internal-slot@^1.0.2:
     es-abstract "^1.17.0-next.1"
     has "^1.0.3"
     side-channel "^1.0.2"
+
+intersection-observer@^0.11.0:
+  version "0.11.0"
+  resolved "https://registry.yarnpkg.com/intersection-observer/-/intersection-observer-0.11.0.tgz#f4ea067070326f68393ee161cc0a2ca4c0040c6f"
+  integrity sha512-KZArj2QVnmdud9zTpKf279m2bbGfG+4/kn16UU0NL3pTVl52ZHiJ9IRNSsnn6jaHrL9EGLFM5eWjTx2fz/+zoQ==
 
 invariant@^2.2.2, invariant@^2.2.4:
   version "2.2.4"
@@ -10726,6 +10729,11 @@ worker-rpc@^0.1.0:
   integrity sha512-P1WjMrUB3qgJNI9jfmpZ/htmBEjFh//6l/5y8SD9hg1Ef5zTTVVoRjTrTEzPrNBQvmhMxkoTsjOXN10GWU7aCg==
   dependencies:
     microevent.ts "~0.1.1"
+
+wouter@^2.4.0:
+  version "2.7.5"
+  resolved "https://registry.yarnpkg.com/wouter/-/wouter-2.7.5.tgz#c7466a2630bed3a4ec010aea0cda42a5bae69e5d"
+  integrity sha512-TOI9gD1wa7a8wW+lh3rjg0C+MjYGKMV3eC+++6D+7n1z36ZJIBPWe2G9Hs1jYNPsV7oKiPTI3UFC5TGhZjQfrQ==
 
 wrap-ansi@^2.0.0:
   version "2.1.0"
